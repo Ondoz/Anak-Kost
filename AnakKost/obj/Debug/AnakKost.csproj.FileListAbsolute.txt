@@ -1,0 +1,72 @@
+c:\users\gilang wahyudi\documents\visual studio 2015\Projects\AnakKost\AnakKost\bin\Debug\AnakKost.exe.config
+c:\users\gilang wahyudi\documents\visual studio 2015\Projects\AnakKost\AnakKost\bin\Debug\AnakKost.exe
+c:\users\gilang wahyudi\documents\visual studio 2015\Projects\AnakKost\AnakKost\bin\Debug\AnakKost.pdb
+c:\users\gilang wahyudi\documents\visual studio 2015\Projects\AnakKost\AnakKost\bin\Debug\MaterialDesignColors.dll
+c:\users\gilang wahyudi\documents\visual studio 2015\Projects\AnakKost\AnakKost\bin\Debug\MaterialDesignThemes.Wpf.dll
+c:\users\gilang wahyudi\documents\visual studio 2015\Projects\AnakKost\AnakKost\bin\Debug\MaterialDesignThemes.Wpf.pdb
+c:\users\gilang wahyudi\documents\visual studio 2015\Projects\AnakKost\AnakKost\bin\Debug\MaterialDesignThemes.Wpf.xml
+c:\users\gilang wahyudi\documents\visual studio 2015\Projects\AnakKost\AnakKost\obj\Debug\AnakKost.csprojResolveAssemblyReference.cache
+c:\users\gilang wahyudi\documents\visual studio 2015\Projects\AnakKost\AnakKost\obj\Debug\App.g.cs
+c:\users\gilang wahyudi\documents\visual studio 2015\Projects\AnakKost\AnakKost\obj\Debug\AnakKost_MarkupCompile.cache
+c:\users\gilang wahyudi\documents\visual studio 2015\Projects\AnakKost\AnakKost\obj\Debug\AnakKost_MarkupCompile.lref
+c:\users\gilang wahyudi\documents\visual studio 2015\Projects\AnakKost\AnakKost\obj\Debug\AnakKost.g.resources
+c:\users\gilang wahyudi\documents\visual studio 2015\Projects\AnakKost\AnakKost\obj\Debug\AnakKost.Properties.Resources.resources
+c:\users\gilang wahyudi\documents\visual studio 2015\Projects\AnakKost\AnakKost\obj\Debug\AnakKost.csproj.GenerateResource.Cache
+c:\users\gilang wahyudi\documents\visual studio 2015\Projects\AnakKost\AnakKost\obj\Debug\AnakKost.exe
+c:\users\gilang wahyudi\documents\visual studio 2015\Projects\AnakKost\AnakKost\obj\Debug\AnakKost.pdb
+c:\users\gilang wahyudi\documents\visual studio 2015\Projects\AnakKost\AnakKost\obj\Debug\View\Login.g.cs
+c:\users\gilang wahyudi\documents\visual studio 2015\Projects\AnakKost\AnakKost\obj\Debug\App.baml
+c:\users\gilang wahyudi\documents\visual studio 2015\Projects\AnakKost\AnakKost\obj\Debug\View\Login.baml
+c:\users\gilang wahyudi\documents\visual studio 2015\Projects\AnakKost\AnakKost\obj\Debug\View\MainPage.g.cs
+c:\users\gilang wahyudi\documents\visual studio 2015\Projects\AnakKost\AnakKost\obj\Debug\View\MainPage.baml
+C:\Users\Gilang Wahyudi\documents\visual studio 2015\Projects\AnakKost\AnakKost\obj\Debug\View\Grafic.g.cs
+C:\Users\Gilang Wahyudi\documents\visual studio 2015\Projects\AnakKost\AnakKost\obj\Debug\View\Home.g.cs
+C:\Users\Gilang Wahyudi\documents\visual studio 2015\Projects\AnakKost\AnakKost\obj\Debug\View\Grafic.baml
+C:\Users\Gilang Wahyudi\documents\visual studio 2015\Projects\AnakKost\AnakKost\obj\Debug\View\Home.baml
+C:\Users\Gilang Wahyudi\Documents\Visual Studio 2015\Projects\AnakKost\AnakKost\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Gilang Wahyudi\Documents\Visual Studio 2015\Projects\AnakKost\AnakKost\bin\Debug\LiveCharts.dll
+C:\Users\Gilang Wahyudi\Documents\Visual Studio 2015\Projects\AnakKost\AnakKost\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Gilang Wahyudi\Documents\Visual Studio 2015\Projects\AnakKost\AnakKost\bin\Debug\LiveCharts.pdb
+C:\Users\Gilang Wahyudi\Documents\Visual Studio 2015\Projects\AnakKost\AnakKost\bin\Debug\LiveCharts.xml
+C:\Users\Gilang Wahyudi\Documents\Visual Studio 2015\Projects\AnakKost\AnakKost\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\Gilang Wahyudi\Documents\Visual Studio 2015\Projects\AnakKost\AnakKost\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\Gilang Wahyudi\Documents\Visual Studio 2015\Projects\AnakKost\AnakKost\obj\Debug\View\CatatanAndJadwal.g.cs
+C:\Users\Gilang Wahyudi\Documents\Visual Studio 2015\Projects\AnakKost\AnakKost\obj\Debug\View\CatatanAndJadwal.baml
+C:\Users\Gilang Wahyudi\Documents\Visual Studio 2015\Projects\AnakKost\AnakKost\obj\Debug\View\Pembuat.g.cs
+C:\Users\Gilang Wahyudi\Documents\Visual Studio 2015\Projects\AnakKost\AnakKost\obj\Debug\View\Pembuat.baml
+E:\visual basic\AnakKost\AnakKost\bin\Debug\AnakKost.exe.config
+E:\visual basic\AnakKost\AnakKost\obj\Debug\AnakKost.exe
+E:\visual basic\AnakKost\AnakKost\obj\Debug\AnakKost.pdb
+E:\visual basic\AnakKost\AnakKost\bin\Debug\AnakKost.exe
+E:\visual basic\AnakKost\AnakKost\bin\Debug\AnakKost.pdb
+E:\visual basic\AnakKost\AnakKost\bin\Debug\LiveCharts.dll
+E:\visual basic\AnakKost\AnakKost\bin\Debug\LiveCharts.Wpf.dll
+E:\visual basic\AnakKost\AnakKost\bin\Debug\MaterialDesignColors.dll
+E:\visual basic\AnakKost\AnakKost\bin\Debug\MaterialDesignThemes.Wpf.dll
+E:\visual basic\AnakKost\AnakKost\bin\Debug\LiveCharts.pdb
+E:\visual basic\AnakKost\AnakKost\bin\Debug\LiveCharts.xml
+E:\visual basic\AnakKost\AnakKost\bin\Debug\LiveCharts.Wpf.pdb
+E:\visual basic\AnakKost\AnakKost\bin\Debug\LiveCharts.Wpf.xml
+E:\visual basic\AnakKost\AnakKost\bin\Debug\MaterialDesignThemes.Wpf.pdb
+E:\visual basic\AnakKost\AnakKost\bin\Debug\MaterialDesignThemes.Wpf.xml
+E:\visual basic\AnakKost\AnakKost\obj\Debug\AnakKost.csprojResolveAssemblyReference.cache
+E:\visual basic\AnakKost\AnakKost\obj\Debug\View\CatatanAndJadwal.g.cs
+E:\visual basic\AnakKost\AnakKost\obj\Debug\View\Grafic.g.cs
+E:\visual basic\AnakKost\AnakKost\obj\Debug\View\Home.g.cs
+E:\visual basic\AnakKost\AnakKost\obj\Debug\View\Login.g.cs
+E:\visual basic\AnakKost\AnakKost\obj\Debug\View\MainPage.g.cs
+E:\visual basic\AnakKost\AnakKost\obj\Debug\View\Pembuat.g.cs
+E:\visual basic\AnakKost\AnakKost\obj\Debug\App.g.cs
+E:\visual basic\AnakKost\AnakKost\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\visual basic\AnakKost\AnakKost\obj\Debug\AnakKost_MarkupCompile.cache
+E:\visual basic\AnakKost\AnakKost\obj\Debug\AnakKost_MarkupCompile.lref
+E:\visual basic\AnakKost\AnakKost\obj\Debug\App.baml
+E:\visual basic\AnakKost\AnakKost\obj\Debug\View\CatatanAndJadwal.baml
+E:\visual basic\AnakKost\AnakKost\obj\Debug\View\Grafic.baml
+E:\visual basic\AnakKost\AnakKost\obj\Debug\View\Home.baml
+E:\visual basic\AnakKost\AnakKost\obj\Debug\View\Login.baml
+E:\visual basic\AnakKost\AnakKost\obj\Debug\View\MainPage.baml
+E:\visual basic\AnakKost\AnakKost\obj\Debug\View\Pembuat.baml
+E:\visual basic\AnakKost\AnakKost\obj\Debug\AnakKost.g.resources
+E:\visual basic\AnakKost\AnakKost\obj\Debug\AnakKost.Properties.Resources.resources
+E:\visual basic\AnakKost\AnakKost\obj\Debug\AnakKost.csproj.GenerateResource.Cache
